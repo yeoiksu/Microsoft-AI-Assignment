@@ -11,7 +11,7 @@ This space is to record the assignment works from Microsoft AI School.
 - Day 49. &nbsp;&nbsp;[1212. 웹크롤링 & 정제된 이미지 데이터셋 업로드]()
 - Day 50. &nbsp;&nbsp;[1213. 바운딩 박스(bbox) , 세그멘테이션](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1213.pdf)
 - Day 51. &nbsp;&nbsp;[1214. csv 파일 이용하여 custom dataset 만들기 리턴값 파일명, bbox값 ](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1214.pdf)
-- Day 53. &nbsp;&nbsp;[1216. json 파일 이용하여 custom dataset 만들고 transform 하기](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1216.pdf)
+- Day 53. &nbsp;&nbsp;[1216. json 파일 이용하여 custom dataset 만들고 transform 하기](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1216_1.pdf)
 
 
 :link: More about [MS AI SCHOOL, South Korea](https://msaischool.kr/)
