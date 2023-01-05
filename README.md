@@ -12,3 +12,7 @@ This space is to record Pytorch and OpenCV works
 - [1213. 바운딩 박스(bbox) , 세그멘테이션](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1213.pdf)
 - [1214. csv 파일 이용하여 custom dataset 만들기 리턴값 파일명, bbox값 ](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1214.pdf)
 - [1216. json 파일 이용하여 custom dataset 만들고 transform 하기](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1216_1.pdf)
+- [1222. 서로 다른 Albumentation 활용하기](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1222.pdf)
+
+- [0104. Pytorch Custom Dataset 구축하기](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2023.01/0104.pdf)
+- [0105. 다양한 torchvision 분류모델 학습](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2023.01/0105.pdf)
