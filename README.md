@@ -15,3 +15,4 @@ This space is to record Pytorch and OpenCV works
 - [1222. 서로 다른 Albumentation 활용하기](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2022.12/1222.pdf)
 - [0104. Pytorch Custom Dataset 구축하기](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2023.01/0104.pdf)
 - [0105. 다양한 torchvision 분류모델 학습](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2023.01/0105.pdf)
+- [0106. 가위바위보 Image Classification](https://github.com/yeoiksu/Microsoft-AI-Assignment/blob/main/2023.01/0106.pdf)
